@@ -2,12 +2,12 @@
 Tugas ini dibuat berdasarkan tugas kelompok Pemrograman Visual yang disusun oleh:
 
 Rizqi Maulana Mahfudz;
-Fachri Bagas Tari;
-Niko Pandu Jaya;
-Thoriq Hisbullah Khasyim;
-Haykal Harby Ramadon;
-Morenza Istighfari;
-Hafidz Fakrijal;
+Fachri Bagas Tami;
+Niko Pandu Naya;
+Thoriq Hisbulloh Kasim;
+Haykal Harby Ramadhan;
+Morenzah Istifari;
+Hafidz Fakrizal;
 Oktavianus;
 
 # Progress Halaman
